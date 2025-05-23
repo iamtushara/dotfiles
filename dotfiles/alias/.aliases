@@ -1,0 +1,21 @@
+
+# unix
+alias cdc='cd ~/Code'
+alias ll='ls -l'
+alias la='ls -la'
+alias win='cd /mnt/c/Users/tusha'
+alias update='sudo apt-get update && sudo apt-get upgrade'
+alias clean='sudo apt autoclean && sudo apt autoremove && sudo apt clean'
+alias maintain='clean && update && clean'
+
+# tmux
+alias taa='tmux a -t ta'
+alias tax='tmux kill-session -t ta'
+
+# anaconda
+alias ccb='conda activate base'
+alias ccl='conda env list'
+alias wp='which python'
+
+# ssh
+alias ssh-begin='eval `ssh-agent`; ssh-add; ssh-add -L'
