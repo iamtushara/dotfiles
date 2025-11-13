@@ -1,7 +1,7 @@
-[credential]
-	helper = /mnt/c/Program\\ Files\\ \\(x86\\)/Git\\ Credential\\ Manager/git-credential-manager.exe
 [user]
 	name = Tushar Anand
 	email = tushar_anand@yahoo.com
 [init]
 	defaultBranch = master
+[credential]
+	helper = /mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe
