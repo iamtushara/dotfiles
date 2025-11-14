@@ -1,6 +1,7 @@
 
 # unix
 alias cdc='cd ~/Code'
+alias cdr='cd ~/Research'
 alias ll='ls -l'
 alias la='ls -la'
 alias win='cd /mnt/c/Users/tusha'
