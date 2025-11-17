@@ -42,7 +42,7 @@ Each subdirectory inside `dotfiles/dotfiles/` represents a package of dotfiles. 
 Git should be configured to use the Git Credential Manager:
 
 ```bash
-git config --global credential.helper "/mnt/c/Program\ Files\ \(x86\)/Git\ Credential\ Manager/git-credential-manager.exe"
+git config --global credential.helper "/mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager.exe"
 ```
 
 Clone the repository:
