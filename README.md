@@ -30,7 +30,8 @@ Each subdirectory inside `dotfiles/dotfiles/` represents a package of dotfiles. 
 
 - Windows with **WSL** (Ubuntu)
 - A GitHub account
-- Git Credential Manager installed and configured
+- Git Credential Manager (GCM) installed and configured
+  GCM is included with [Git for Windows](https://gitforwindows.org/).
 - GNU Stow installed in WSL
 
 ---
